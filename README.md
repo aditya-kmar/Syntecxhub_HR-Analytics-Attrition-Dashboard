@@ -8,8 +8,8 @@ An interactive **HR Analytics Dashboard** built in **Power BI** to analyze emplo
 
 ## 📷 Dashboard Preview
 
-![HR Analytics Dashboard](<img width="1370" height="737" alt="HR Analytics Dashboard Preview" src="https://github.com/user-attachments/assets/06c8cd92-04db-47dd-b2dc-454ce3acfdcb" />
-)
+![HR Analytics Dashboard] <img width="1370" height="737" alt="HR Analytics Dashboard Preview" src="https://github.com/user-attachments/assets/f80d6051-65f7-4863-a2c4-d63398c60921" />
+
 
 ---
 
